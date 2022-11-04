@@ -1,0 +1,17 @@
+{
+  "name": "tz-dui-components",
+  "version": "1.0.4",
+  "description": "The components made for the Dynamic UI Interactions lesson in The Odin Project. It features dropdown, collapsible menu, and image carousel.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zekumoru/tz-dui-components.git"
+  },
+  "keywords": [],
+  "author": "Zekumoru Dragonhart <dev@zekumoru.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zekumoru/tz-dui-components/issues"
+  },
+  "homepage": "https://github.com/Zekumoru/tz-dui-components#readme"
+}
